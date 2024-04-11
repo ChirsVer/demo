@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe688b00-fcef-4ddd-a1da-9cb01352188f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Helpers/LogSuiteListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/keywords/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suite/runGroup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suite/runParalleGroup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/configs/configs/configs.propterties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataTest/tcLastnameDob.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Page/Lambdatest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TCs/LambdatestTCs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/common/PageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/configs/configs.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/records/verifyHeaderTC-18-03-2024 17-51-24.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Helpers/CaptureHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Helpers/CaptureHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Helpers/ExcelHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Helpers/ExcelHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Helpers/PropertiesHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Helpers/PropertiesHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logs/logUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logs/LogUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/keywords/WebUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/keywords/WebUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/suite/run.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/suite/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/suite/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CaptureScreen/ScreenShot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CaptureScreen/ScreenShot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataTest/dataTest.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataTest/dataTest.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Listenter/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Listenter/TestListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Page/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Page/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Provider/DataProviderExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Provider/DataProviderExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TCs/RegisterTCs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TCs/RegisterTCs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/common/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/common/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/configs/configs.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dfOd7i4BElEKtiKf8585gbwuqj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.TestMethodPrinter.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.ExcelHelper.ExcelToList.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ExcelHelper.test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.G:/learAuto/Newproject/fULL/src/suite/runGroup.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.G:/learAuto/Newproject/fULL/src/suite/test.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.G:/learAuto/Register-automationtesting-Log4j2 - Provider - TestMulti/src/suite/run.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.G:/learAuto/Register-automationtesting-Log4j2 - Provider - TestMulti/src/suite/runGroup.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.G:/learAuto/Register-automationtesting-Log4j2 - Provider - TestMulti/src/suite/runParalle.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.G:/learAuto/Register-automationtesting-Log4j2 - Provider - TestMulti/src/suite/runParalleGroup.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.G:/learAuto/Register-automationtesting-Log4j2 - Provider - TestMulti/src/suite/test.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.G:/learAuto/Register-automationtesting/src/suite/listener.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.G:/learAuto/Register-automationtesting/src/suite/run.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.G:/learAuto/Register-automationtesting/src/suite/test.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PageHelper.printGroup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PageHelper.testL.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PageHelper.testLocator.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterPage.testL.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterPage.verifyAllValueCountryDdl.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.boundaryEmailAddressTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.boundaryPasswordTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.print.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.printmethod.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.printmethodK.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.searchCountry.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.t.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.test01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.test02.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.test03.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.test05.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.testL.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.testLocator.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.testLoginFromDataProviderExcelHashtable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.testtest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.trrtt.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.tt.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.validateBoundaryPhoneTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.validateEnteredPhone.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.validateFormatPhoneTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.veirfyAllValueICountryDdl.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.veirfyCopySearchCountryMouseTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.veirfyDefaultCountry.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.veirfyMandatoryFieldsTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyAllOptionsCountryDisplayTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyBlankOptionCountryTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyClickAlphabetKeyCountryDdlTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyClickEmailAddressTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyCountryTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyCursorEmailAddressTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyCursorFirstNameTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyCursorLastNameTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyDateTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyDefaultFiled.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyDefaultFiledsTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyDeselectOptionLanguageTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyEnteredDataTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyEnteredDateTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyEnteredPasswordFieldTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyEnteredRePasswordFieldTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyErrorMsgSearchCountryTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyGender.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyGenderCheckboxDefaultTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyHeaderTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyInputDataFirstnameTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyLanguageMultiSelectTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyListCountryDdlTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyMultipleSkillsTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyPlaceHolderEmailAddressTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyPlaceHolderLastnameTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyScrollCountryDDLTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyScrolldownCountryDDLByArrowTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifySelectOptionByArrowDownCountryTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifySelectOptionByArrowUpCountryTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifySkillsTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyTabLastnameTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTCs.verifyTooltipAlertEmailAddressTC.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ScreenShot (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ScreenShot.ScreenShot.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ScreenShot.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ScreenShot.test.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/learAuto/Newproject/fULL&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;G:/learAuto/Register-automationtesting/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\learAuto\Register-automationtesting-Log4j2 - Provider - TestMulti\src\suite" />
+      <recent name="G:\learAuto\Register-automationtesting\src\test\java\DataTest" />
+      <recent name="G:\learAuto\Register-automationtesting\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\learAuto\Newproject\fULL\src\test\configs\configs" />
+      <recent name="G:\learAuto\Newproject\fULL\src\test\configs\" />
+      <recent name="G:\learAuto\Newproject\fULL\src\test\java\resources\configs" />
+      <recent name="G:\learAuto\Newproject\fULL\src\main\resources" />
+      <recent name="G:\learAuto\Register-automationtesting-Log4j2\src\test\java\DataTest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Helpers" />
+      <recent name="Provider" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RegisterTCs.verifyHeaderTC">
+    <configuration name="RegisterTCs.test02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Register-automationtesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TCs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TCs" />
+      <option name="MAIN_CLASS_NAME" value="TCs.RegisterTCs" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTCs.verifyClickEmailAddressTC" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Register-automationtesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TCs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TCs" />
+      <option name="MAIN_CLASS_NAME" value="TCs.RegisterTCs" />
+      <option name="METHOD_NAME" value="verifyClickEmailAddressTC" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTCs.verifyCursorEmailAddressTC" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Register-automationtesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TCs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TCs" />
+      <option name="MAIN_CLASS_NAME" value="TCs.RegisterTCs" />
+      <option name="METHOD_NAME" value="verifyCursorEmailAddressTC" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTCs.verifyHeaderTC" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Register-automationtesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TCs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TCs" />
+      <option name="MAIN_CLASS_NAME" value="TCs.RegisterTCs" />
+      <option name="METHOD_NAME" value="verifyHeaderTC" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTCs.verifyPlaceHolderEmailAddressTC" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Register-automationtesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TCs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TCs" />
+      <option name="MAIN_CLASS_NAME" value="TCs.RegisterTCs" />
+      <option name="METHOD_NAME" value="verifyPlaceHolderEmailAddressTC" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegisterTCs.verifyHeaderTC" />
+        <item itemvalue="TestNG.RegisterTCs.verifyCursorEmailAddressTC" />
+        <item itemvalue="TestNG.RegisterTCs.test02" />
+        <item itemvalue="TestNG.RegisterTCs.verifyClickEmailAddressTC" />
+        <item itemvalue="TestNG.RegisterTCs.verifyPlaceHolderEmailAddressTC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe688b00-fcef-4ddd-a1da-9cb01352188f" name="Changes" comment="" />
+      <created>1710395753926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710395753926</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TCs/RegisterTCs.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TCs/RegisterTCs.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Page/RegisterPage.java</url>
+          <line>713</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Helpers/ExcelHelper.java</url>
+          <line>303</line>
+          <properties class="Helpers.ExcelHelper" method="ExcelToListVoid">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/TCs/RegisterTCs.java</url>
+          <line>199</line>
+          <properties class="TCs.RegisterTCs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

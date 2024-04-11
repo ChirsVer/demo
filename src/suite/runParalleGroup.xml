@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite" >
+
+    <test name="Run with Methods" parallel="methods" thread-count="2">
+        <parameter name="browser" value="edge"></parameter>
+        <groups>
+            <run>
+                <include name="test"></include>
+            </run>
+        </groups>
+<!--        <parameter name="browser" value="chrome"></parameter>-->
+        <classes>
+            <!--             <class name="anhtester.com.TestRunXML.RunTestSample"></class> -->
+            <class name="TCs.RegisterTCs">
+
+            </class>
+        </classes>
+    </test>
+<!--    test 2 run with chrom-->
+
+</suite>
